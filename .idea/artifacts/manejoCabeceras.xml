@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="manejoCabeceras">
+    <output-path>$PROJECT_DIR$/out/artifacts/manejoCabeceras</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="manejoCabeceras" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="manejoCabeceras/web/Web" />
+    </root>
+  </artifact>
+</component>
